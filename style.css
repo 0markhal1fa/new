@@ -1,0 +1,70 @@
+/*
+.da7men8erba7{
+    
+
+    
+    background-color: rgb(0, 255, 64);
+    border: sienna 4px solid;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    /*suuui
+}
+.r9{
+    background-color: rgb(22, 158, 52);
+    border: rgb(255, 251, 0) 4px solid;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+
+}
+a {
+    text-decoration: linethrough;
+}
+/* text-decoration: underline underlines words
+    ''      ''      overline makes a line over the words
+    ''      ''      linethrough puts a line on the words
+    ''      ''      none removes all decoration
+        note: Putting two of the above next to each other in the same text decoration with a space between them puts both of them i.e: text-decoration: underline overline
+
+body{
+    background-image: url('Ronaldo.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+
+}
+*/
+img{
+    width: 30%;
+}
+.header {
+    background-color: rgb(180, 175, 175);
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 15px;
+
+}
+
+
+.Logo{
+    text-decoration: none;
+    font-size: 1.8em;
+    font-weight: 700;
+    color: cornflowerblue;
+    
+}
+.nav a{
+    text-decoration: none;
+    font-size: 1.8em;
+    font-weight: 700;
+    color: cornflowerblue;
+    padding: 20px;
+}
+.Starting paragraph{
+    margin: 40px;
+    text-align: center;
+}
